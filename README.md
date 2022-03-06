@@ -13,15 +13,14 @@
 ### 기능 설명
 - <strong> 로그인, 회원가입</strong><br>
 - <strong> 아이디 찾기, 비밀번호 찾기, 비밀번호 수정, 닉네임 수정, 회원 탈퇴</strong><br>
-- <strong> 스터디 생성, 스터디 가입, 스터디 탈퇴, 스터디 폐쇄</strong><br>
+- <strong> 스터디 검색(제목, 언어, 언어 이미지), 스터디 상세보기, 스터디 가입신청 승인/거절, 스터디 생성, 스터디 가입, 스터디 탈퇴, 스터디 폐쇄</strong><br>
+- <strong> 알림 페이지</strong><br>
 - <strong> 스터디 게시판 (등록, 수정, 삭제, 검색)</strong><br>
 - <strong> 스터디 게시글 댓글 (등록, 삭제)</strong><br>
-- <strong> 지도 검색</strong><br><br>
 
 
-
-## Demo Video
-https://youtu.be/Euas_u6IOhM
+## URL
+http://lyg6452.cafe24.com/
 <br><br>
 
 ## Tech Stack
@@ -36,9 +35,13 @@ https://youtu.be/Euas_u6IOhM
 <h4> Framework </h4> 
 <p>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Ajax-blue?style=flat-square&logo=appveyor"/>
 </p>
+
+<h4> Library </h4> 
+<p>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+</p>
+
 <h4> Tools </h4> 
 <p>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
